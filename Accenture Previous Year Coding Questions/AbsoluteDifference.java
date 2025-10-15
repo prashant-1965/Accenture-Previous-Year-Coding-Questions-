@@ -56,3 +56,4 @@ public class AbsoluteDifference {
         System.out.println ("Absolute Diff count: " + AbsDifference(arr, n, num, diff));
     }
 }
+
